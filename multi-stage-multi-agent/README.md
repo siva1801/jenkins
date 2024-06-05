@@ -8,3 +8,6 @@ Set up a multi stage jenkins pipeline where each stage is run on a unique agent.
 
 
 ![Screenshot 2024-06-05 172721](https://github.com/siva1801/jenkins/assets/157710821/bd288d11-6f6f-4506-be53-a714b461fc50)
+
+
+![Screenshot 2024-06-05 173014](https://github.com/siva1801/jenkins/assets/157710821/98c45524-7fbf-4f85-aa49-351e132b24a2)
